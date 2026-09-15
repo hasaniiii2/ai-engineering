@@ -1,3 +1,4 @@
 print("hello world")
 print("heloo")
 input("hello")
+m = int(input("hello guy's"))
